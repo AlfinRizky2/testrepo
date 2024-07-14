@@ -1,0 +1,28 @@
+Sekilas tentang Git/GitHub
+
+
+Git dan GitHub adalah dua lingkungan yang populer di kalangan pengembang dan ilmuwan data untuk melakukan kontrol versi terhadap file dan proyek serta berkolaborasi dengan orang lain. Berikut adalah gambaran umum tentang Git dan GitHub:
+
+- Git adalah perangkat lunak bebas dan sumber terbuka yang didistribusikan di bawah Lisensi Publik Umum GNU. Git adalah sistem kontrol versi terdistribusi, yang berarti pengguna di mana saja di dunia dapat memiliki salinan proyek Anda di komputer mereka sendiri. Ketika mereka melakukan perubahan, mereka dapat menyinkronkan versi mereka ke server jarak jauh untuk berbagi dengan Anda. Git bukan satu-satunya sistem kontrol versi yang ada, tetapi aspek terdistribusi adalah salah satu alasan utama mengapa Git menjadi salah satu sistem kontrol versi yang paling umum digunakan.
+
+- GitHub adalah salah satu layanan web yang paling populer untuk repositori Git. Repositori adalah folder proyek Anda yang diatur untuk kontrol versi. GitHub menyediakan antarmuka web yang memudahkan kolaborasi dengan orang lain dalam proyek Anda. Selain GitHub, ada juga layanan web lain seperti GitLab, BitBucket, dan Beanstalk yang menyediakan repositori Git.
+
+- Beberapa istilah dasar yang perlu Anda ketahui sebelum memulai dengan Git dan GitHub adalah:
+  1. SSH (Secure Shell) adalah protokol untuk login jarak jauh yang aman dari satu komputer ke komputer lain.
+  2. Repositori berisi folder proyek Anda yang diatur untuk kontrol versi.
+  3. Fork adalah salinan dari repositori.
+  4. Pull request adalah cara Anda meminta seseorang untuk meninjau dan menyetujui perubahan Anda sebelum perubahan tersebut menjadi final.
+  5. Working directory berisi file dan subdirektori di komputer Anda yang terkait dengan repositori Git.
+
+- Ada beberapa perintah dasar Git yang akan selalu Anda gunakan, antara lain:
+  1. "git init" digunakan untuk membuat repositori baru.
+  2. "git add" digunakan untuk memindahkan perubahan dari working directory ke staging area.
+  3. "git status" memungkinkan Anda melihat status working directory dan snapshot perubahan yang di-staging.
+  4. "git commit" mengambil snapshot perubahan yang di-staging dan mengkomitmenkannya ke proyek.
+  5. "git reset" digunakan untuk mengembalikan perubahan yang telah Anda buat pada file di working directory.
+  6. "git log" memungkinkan Anda untuk melihat perubahan sebelumnya pada proyek.
+  7. "git branch" memungkinkan Anda membuat lingkungan terisolasi di dalam repositori untuk membuat perubahan.
+  8. "git checkout" memungkinkan Anda melihat dan mengubah branch yang ada.
+  9. "git merge" memungkinkan Anda menggabungkan semua perubahan kembali menjadi satu.
+
+- Untuk belajar menggunakan Git dengan efektif dan mulai berkolaborasi dengan ilmuwan data di seluruh dunia, Anda perlu mempelajari perintah-perintah dasar Git. GitHub menyediakan sumber daya yang luar biasa untuk membantu Anda memulai. Anda dapat mengunjungi try.github.io untuk mengunduh cheat sheet dan menjalankan tutorial.
